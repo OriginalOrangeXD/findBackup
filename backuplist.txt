@@ -1,0 +1,6 @@
+~
+.bak
+.bak2
+.old
+.1
+.swp
